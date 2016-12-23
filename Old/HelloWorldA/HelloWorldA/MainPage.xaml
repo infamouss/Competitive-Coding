@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="HelloWorldA.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelloWorldA"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="ClickMeButton" Content="Click This" HorizontalAlignment="Left" Margin="68,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.692,0.688" FontSize="16" Click="ClickMeButton_Click"/>
+        <TextBlock x:Name="ResultTextBlock" HorizontalAlignment="Left" Margin="68,100,0,0" TextWrapping="Wrap" Text="Default" VerticalAlignment="Top" FontSize="64"/>
+
+    </Grid>
+</Page>

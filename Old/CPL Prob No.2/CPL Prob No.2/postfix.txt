@@ -1,0 +1,9 @@
+ab*cd/+
+abcd/+*
+the expression is invalid
+abcd/+*e-
+ab+cd-*
+the expression is invalid
+ a  bcd/+*
+the expression is invalid
+the expression is invalid

@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="aadhar_view_image_view_start_back_height">120dp</dimen>
+    <dimen name="aadhar_view_text_view_title_padding">10dp</dimen>
+    <dimen name="aadhar_view_text_view_title_text_size">19dp</dimen>
+    <dimen name="aadhar_view_linear_row">55dp</dimen>
+    <dimen name="aadhar_view_linear_row_label_padding">5dp</dimen>
+    <dimen name="aadhar_view_linear_row_label_text_size">15dp</dimen>
+    <dimen name="aadhar_view_linear_row_padding">1dp</dimen>
+    <dimen name="aadhar_view_linear_row_text_size">20dp</dimen>
+    <dimen name="aadhar_view_linear_row_address">140dp</dimen>
+    <dimen name="aadhar_view_linear_top_details_width">180dp</dimen>
+    <dimen name="aadhar_view_linear_top_details_height">100dp</dimen>
+    <dimen name="aadhar_view_linear_top_details_margin_top">10dp</dimen>
+    <dimen name="aadhar_view_linear_row_text_size_number">22dp</dimen>
+    <dimen name="aadhar_view_frame_top_details_width">145dp</dimen>
+    <dimen name="aadhar_view_frame_top_text_size">18dp</dimen>
+</resources>
